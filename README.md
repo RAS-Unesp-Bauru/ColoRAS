@@ -18,6 +18,16 @@ O ***ColoRAS*** é um projeto que tem o intuito de utilizar visão computacional
 
 ## Instalação dos Pré-requisitos:
 
+1 - Criar o environment do Conda com o python 3.7 ou utilizar o google colab:
+`conda create -n myenv python=3.7`
+
+2 - Clonar o repositório:
+`git clone https://github.com/RAS-Unesp-Bauru/ColoRAS`
+
+3 - 
+
+
+
 
 
 
