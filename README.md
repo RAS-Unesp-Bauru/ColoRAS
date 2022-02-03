@@ -14,8 +14,8 @@ O ***ColoRAS*** é um projeto que tem o intuito de utilizar visão computacional
 - Pandas;
 - TensorFlow
 
-### Datasets disponíveis em:
-> https://github.com/rash938/Imat-2019-fashion-self-case-study2-
+### Dataset da rede neural de segmentação disponíveil em:
+> https://drive.google.com/drive/folders/1QoVK6ILudBUJpok84zLvM5DVYNNQj6eo
 
 ## Instalação dos Pré-requisitos:
 
