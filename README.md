@@ -11,7 +11,8 @@ O ***ColoRAS*** é um projeto que tem o intuito de utilizar visão computacional
 - OpenCV;
 - Numpy;
 - ColorSys;
-- Pandas.
+- Pandas;
+- TensorFlow
 
 ### Datasets disponíveis em:
 > https://github.com/rash938/Imat-2019-fashion-self-case-study2-
