@@ -1,4 +1,6 @@
-# ColoRAS
+![261439306_612866583465099_6202014850573516966_n](https://user-images.githubusercontent.com/88898006/152449698-d89942b0-36ee-4faf-bf8c-efd7a29e9d14.jpg)
+# ColoR![Uploading 261439306_612866583465099_6202014850573516966_n.jpg…]()
+AS
 O ***ColoRAS*** é um projeto que tem o intuito de utilizar visão computacional associada ao machine learning para identificar cores e roupas em imagens disponibilizadas pelo usuário e retornar para o mesmo um “score” baseado em sua combinação destas, tendo em vista a grande propagação da moda e do DIY fashion (do it yourself fashion), é uma alternativa para auxiliar no processo criativo do usuário.
 
 ### Utilização:
