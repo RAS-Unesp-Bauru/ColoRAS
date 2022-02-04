@@ -30,7 +30,7 @@ O ***ColoRAS*** é um projeto que tem o intuito de utilizar visão computacional
 3 - Instalar a biblioteca OpenCV:
 `pip install opencv-python`
 
-4 - Instalar a biblioteca Numpy:
+4 - Instalar a biblioteca Numpy.:
 `pip install numpy`
 
 5 - Instalar a biblioteca Tensorflow:
